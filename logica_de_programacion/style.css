@@ -1,0 +1,22 @@
+.container{
+    width: 50%;
+    height: 200px;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid gray;
+}
+
+.contador{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.operaciones button{
+    width: 50px;
+    height: 50px;
+    font-size: 2rem;
+}
